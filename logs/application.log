@@ -1,0 +1,424 @@
+2025-06-23 15:24:15 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 15:24:15 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 10500 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 15:24:15 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 15:24:17 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-23 15:24:17 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-23 15:24:17 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-23 15:24:17 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-23 15:24:17 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-23 15:24:17 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-23 15:24:18 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-23 15:24:18 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-06-23 15:24:18 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-06-23 15:24:18 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-06-23 15:24:18 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-06-23 15:24:19 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-23 15:24:19 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-23 15:24:19 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 4.189 seconds (JVM running for 4.495)
+2025-06-23 15:24:26 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-23 15:30:04 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 15:30:04 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 18440 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 15:30:04 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 15:30:06 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-23 15:30:06 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-23 15:30:06 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-23 15:30:06 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-23 15:30:06 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-23 15:30:06 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-23 15:30:06 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-23 15:30:06 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-06-23 15:30:06 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-06-23 15:30:06 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-06-23 15:30:07 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-06-23 15:30:07 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-23 15:30:08 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-23 15:30:08 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 4.046 seconds (JVM running for 4.366)
+2025-06-23 15:30:19 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-23 15:30:19 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_, tarjetacre0_.clase as clase2_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_, tarjetacre0_.cupo as cupo4_0_, tarjetacre0_.descripcion as descripc5_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_, tarjetacre0_.franquicia as franquic8_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_ from tarjeta_credito tarjetacre0_
+2025-06-23 15:30:19 [http-nio-8080-exec-1] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1054, SQLState: 42S22
+2025-06-23 15:30:19 [http-nio-8080-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Unknown column 'tarjetacre0_.saldo_actual' in 'field list'
+2025-06-23 15:32:24 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 15:32:24 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 8084 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 15:32:24 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 15:32:25 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-23 15:32:25 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-23 15:32:25 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-23 15:32:25 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-23 15:32:26 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-23 15:32:26 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-23 15:32:26 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-23 15:32:26 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-06-23 15:32:26 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-06-23 15:32:26 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-06-23 15:32:27 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-06-23 15:32:27 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-23 15:32:28 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-23 15:32:28 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 4.275 seconds (JVM running for 4.643)
+2025-06-23 15:32:28 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-23 15:32:28 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_, tarjetacre0_.clase as clase2_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_, tarjetacre0_.cupo as cupo4_0_, tarjetacre0_.descripcion as descripc5_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_, tarjetacre0_.franquicia as franquic8_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_ from tarjeta_credito tarjetacre0_
+2025-06-23 15:32:28 [http-nio-8080-exec-1] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1054, SQLState: 42S22
+2025-06-23 15:32:28 [http-nio-8080-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Unknown column 'tarjetacre0_.saldo_actual' in 'field list'
+2025-06-23 15:35:06 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_, tarjetacre0_.clase as clase2_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_, tarjetacre0_.cupo as cupo4_0_, tarjetacre0_.descripcion as descripc5_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_, tarjetacre0_.franquicia as franquic8_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_ from tarjeta_credito tarjetacre0_
+2025-06-23 15:35:49 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 15:35:49 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 23836 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 15:35:49 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 15:35:51 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-23 15:35:51 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-23 15:35:51 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-23 15:35:51 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-23 15:35:51 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-23 15:35:52 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-23 15:35:52 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-23 15:35:52 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-06-23 15:35:52 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-06-23 15:35:52 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-06-23 15:35:53 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-06-23 15:35:54 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-23 15:35:54 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-23 15:35:54 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 5.615 seconds (JVM running for 6.052)
+2025-06-23 15:36:43 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-23 15:36:44 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_, tarjetacre0_.clase as clase2_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_, tarjetacre0_.cupo as cupo4_0_, tarjetacre0_.descripcion as descripc5_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_, tarjetacre0_.franquicia as franquic8_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_ from tarjeta_credito tarjetacre0_
+2025-06-23 16:14:20 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 16:14:20 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 24528 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 16:14:20 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 16:14:22 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:14:22 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-23 16:14:22 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-23 16:14:22 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-23 16:14:22 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-23 16:14:22 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-23 16:14:22 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-23 16:14:22 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-06-23 16:14:23 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-06-23 16:14:23 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-06-23 16:14:23 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-06-23 16:14:24 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-23 16:14:24 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:14:24 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 4.003 seconds (JVM running for 4.318)
+2025-06-23 16:14:57 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-23 16:14:57 [http-nio-8080-exec-2] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_0_, tarjetacre0_.clase as clase2_0_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_0_, tarjetacre0_.cupo as cupo4_0_0_, tarjetacre0_.descripcion as descripc5_0_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_0_, tarjetacre0_.franquicia as franquic8_0_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_0_ from tarjeta_credito tarjetacre0_ where tarjetacre0_.idtarjeta_credito=?
+2025-06-23 16:14:57 [http-nio-8080-exec-2] INFO  c.b.p.m.i.c.TarjetaCreditoController -  Inicio Consultando tarjeta de credito con id: 2
+2025-06-23 16:14:57 [http-nio-8080-exec-2] INFO  c.b.p.m.i.c.TarjetaCreditoController -  fin Consultando tarjeta de credito con id: 2
+2025-06-23 16:15:12 [http-nio-8080-exec-5] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_0_, tarjetacre0_.clase as clase2_0_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_0_, tarjetacre0_.cupo as cupo4_0_0_, tarjetacre0_.descripcion as descripc5_0_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_0_, tarjetacre0_.franquicia as franquic8_0_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_0_ from tarjeta_credito tarjetacre0_ where tarjetacre0_.idtarjeta_credito=?
+2025-06-23 16:15:12 [http-nio-8080-exec-5] INFO  c.b.p.m.i.c.TarjetaCreditoController -  Inicio Consultando tarjeta de credito con id: 34
+2025-06-23 16:15:12 [http-nio-8080-exec-5] INFO  c.b.p.m.i.c.TarjetaCreditoController -  no se encontro ningun dato asociado a la  tarjeta de credito con id: 34
+2025-06-23 16:15:27 [http-nio-8080-exec-6] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_0_, tarjetacre0_.clase as clase2_0_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_0_, tarjetacre0_.cupo as cupo4_0_0_, tarjetacre0_.descripcion as descripc5_0_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_0_, tarjetacre0_.franquicia as franquic8_0_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_0_ from tarjeta_credito tarjetacre0_ where tarjetacre0_.idtarjeta_credito=?
+2025-06-23 16:15:27 [http-nio-8080-exec-6] INFO  c.b.p.m.i.c.TarjetaCreditoController -  Inicio Consultando tarjeta de credito con id: 96
+2025-06-23 16:15:27 [http-nio-8080-exec-6] INFO  c.b.p.m.i.c.TarjetaCreditoController -  no se encontro ningun dato asociado a la  tarjeta de credito con id: 96
+2025-06-23 16:15:30 [http-nio-8080-exec-7] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_0_, tarjetacre0_.clase as clase2_0_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_0_, tarjetacre0_.cupo as cupo4_0_0_, tarjetacre0_.descripcion as descripc5_0_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_0_, tarjetacre0_.franquicia as franquic8_0_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_0_ from tarjeta_credito tarjetacre0_ where tarjetacre0_.idtarjeta_credito=?
+2025-06-23 16:15:30 [http-nio-8080-exec-7] INFO  c.b.p.m.i.c.TarjetaCreditoController -  Inicio Consultando tarjeta de credito con id: 96
+2025-06-23 16:15:30 [http-nio-8080-exec-7] INFO  c.b.p.m.i.c.TarjetaCreditoController -  no se encontro ningun dato asociado a la  tarjeta de credito con id: 96
+2025-06-23 16:15:35 [http-nio-8080-exec-8] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_0_, tarjetacre0_.clase as clase2_0_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_0_, tarjetacre0_.cupo as cupo4_0_0_, tarjetacre0_.descripcion as descripc5_0_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_0_, tarjetacre0_.franquicia as franquic8_0_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_0_ from tarjeta_credito tarjetacre0_ where tarjetacre0_.idtarjeta_credito=?
+2025-06-23 16:15:35 [http-nio-8080-exec-8] INFO  c.b.p.m.i.c.TarjetaCreditoController -  Inicio Consultando tarjeta de credito con id: 1
+2025-06-23 16:15:35 [http-nio-8080-exec-8] INFO  c.b.p.m.i.c.TarjetaCreditoController -  fin Consultando tarjeta de credito con id: 1
+2025-06-23 16:19:00 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 16:19:00 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 7904 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 16:19:00 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 16:19:01 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:19:01 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-23 16:19:01 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-23 16:19:01 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-23 16:19:01 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-23 16:19:02 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-23 16:19:02 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-23 16:19:02 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-06-23 16:19:02 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-06-23 16:19:02 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-06-23 16:19:02 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-06-23 16:19:03 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-23 16:19:03 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:19:03 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 4.116 seconds (JVM running for 4.439)
+2025-06-23 16:19:10 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-23 16:19:10 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_0_, tarjetacre0_.clase as clase2_0_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_0_, tarjetacre0_.cupo as cupo4_0_0_, tarjetacre0_.descripcion as descripc5_0_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_0_, tarjetacre0_.franquicia as franquic8_0_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_0_ from tarjeta_credito tarjetacre0_ where tarjetacre0_.idtarjeta_credito=?
+2025-06-23 16:19:10 [http-nio-8080-exec-1] INFO  c.b.p.m.i.c.TarjetaCreditoController -  Inicio Consultando tarjeta de credito con id: 1
+2025-06-23 16:19:10 [http-nio-8080-exec-1] INFO  c.b.p.m.i.c.TarjetaCreditoController -  fin Consultando tarjeta de credito con id: 1
+2025-06-23 16:19:15 [http-nio-8080-exec-3] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_0_, tarjetacre0_.clase as clase2_0_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_0_, tarjetacre0_.cupo as cupo4_0_0_, tarjetacre0_.descripcion as descripc5_0_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_0_, tarjetacre0_.franquicia as franquic8_0_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_0_ from tarjeta_credito tarjetacre0_ where tarjetacre0_.idtarjeta_credito=?
+2025-06-23 16:19:15 [http-nio-8080-exec-3] INFO  c.b.p.m.i.c.TarjetaCreditoController -  Inicio Consultando tarjeta de credito con id: 18
+2025-06-23 16:19:15 [http-nio-8080-exec-3] INFO  c.b.p.m.i.c.TarjetaCreditoController -  no se encontro ningun dato asociado a la  tarjeta de credito con id: 18
+2025-06-23 16:20:32 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 16:20:32 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 19760 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 16:20:32 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 16:20:33 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:20:33 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-23 16:20:33 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-23 16:20:34 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-23 16:20:34 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-23 16:20:34 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-23 16:20:34 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-23 16:20:34 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-06-23 16:20:34 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-06-23 16:20:34 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-06-23 16:20:35 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-06-23 16:20:35 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-23 16:20:36 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:20:36 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 4.071 seconds (JVM running for 4.38)
+2025-06-23 16:20:41 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-23 16:20:41 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_0_, tarjetacre0_.clase as clase2_0_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_0_, tarjetacre0_.cupo as cupo4_0_0_, tarjetacre0_.descripcion as descripc5_0_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_0_, tarjetacre0_.franquicia as franquic8_0_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_0_ from tarjeta_credito tarjetacre0_ where tarjetacre0_.idtarjeta_credito=?
+2025-06-23 16:20:41 [http-nio-8080-exec-1] INFO  c.b.p.m.i.c.TarjetaCreditoController -  Inicio Consultando tarjeta de credito con id: 18
+2025-06-23 16:20:41 [http-nio-8080-exec-1] INFO  c.b.p.m.i.c.TarjetaCreditoController -  no se encontro ningun dato asociado a la  tarjeta de credito con id: 18
+2025-06-23 16:21:07 [http-nio-8080-exec-4] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_0_, tarjetacre0_.clase as clase2_0_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_0_, tarjetacre0_.cupo as cupo4_0_0_, tarjetacre0_.descripcion as descripc5_0_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_0_, tarjetacre0_.franquicia as franquic8_0_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_0_ from tarjeta_credito tarjetacre0_ where tarjetacre0_.idtarjeta_credito=?
+2025-06-23 16:21:07 [http-nio-8080-exec-4] INFO  c.b.p.m.i.c.TarjetaCreditoController -  Inicio Consultando tarjeta de credito con id: 18
+2025-06-23 16:21:07 [http-nio-8080-exec-4] INFO  c.b.p.m.i.c.TarjetaCreditoController -  no se encontro ningun dato asociado a la  tarjeta de credito con id: 18
+2025-06-23 16:27:17 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 16:27:17 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 25332 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 16:27:17 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 16:27:18 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:27:18 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-23 16:27:18 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-23 16:27:18 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-23 16:27:19 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-23 16:27:19 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-23 16:27:19 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-23 16:27:19 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-06-23 16:27:19 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-06-23 16:27:19 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-06-23 16:27:20 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-06-23 16:27:20 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-23 16:27:21 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:27:21 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 4.133 seconds (JVM running for 4.456)
+2025-06-23 16:29:20 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 16:29:20 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 24748 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 16:29:20 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 16:29:21 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:29:21 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-23 16:29:21 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-23 16:29:21 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-23 16:29:21 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-23 16:29:22 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-23 16:29:22 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-23 16:29:22 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-06-23 16:29:22 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-06-23 16:29:22 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-06-23 16:29:23 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-06-23 16:29:23 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-23 16:29:24 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:29:24 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 4.293 seconds (JVM running for 4.659)
+2025-06-23 16:30:38 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-23 16:30:46 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 16:30:46 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 25156 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 16:30:46 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 16:30:48 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:30:48 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-23 16:30:48 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-23 16:30:48 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-23 16:30:48 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-23 16:30:49 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-23 16:30:49 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-23 16:30:49 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-06-23 16:30:49 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-06-23 16:30:50 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-06-23 16:30:50 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-06-23 16:30:51 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-23 16:30:51 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:30:51 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 5.992 seconds (JVM running for 6.451)
+2025-06-23 16:30:57 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-23 16:33:54 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 16:33:54 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 3340 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 16:33:54 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 16:33:54 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Error processing condition on org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration.propertySourcesPlaceholderConfigurer
+	at org.springframework.boot.autoconfigure.condition.SpringBootCondition.matches(SpringBootCondition.java:60)
+	at org.springframework.context.annotation.ConditionEvaluator.shouldSkip(ConditionEvaluator.java:108)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForBeanMethod(ConfigurationClassBeanDefinitionReader.java:193)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:153)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:129)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:343)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:756)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:572)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:409)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1300)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1289)
+	at com.banco.popular.ms_tarjeta.MsTarjetaApplication.main(MsTarjetaApplication.java:10)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.banco.popular.ms_tarjeta.application.configuration.OpenApiConfig] from ClassLoader [sun.misc.Launcher$AppClassLoader@15db9742]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:485)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:361)
+	at org.springframework.util.ReflectionUtils.getUniqueDeclaredMethods(ReflectionUtils.java:418)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.lambda$getTypeForFactoryMethod$2(AbstractAutowireCapableBeanFactory.java:765)
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1660)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryMethod(AbstractAutowireCapableBeanFactory.java:764)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:703)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:674)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1684)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:570)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:542)
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.collectBeanNamesForType(OnBeanCondition.java:246)
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getBeanNamesForType(OnBeanCondition.java:239)
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getBeanNamesForType(OnBeanCondition.java:229)
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getMatchingBeans(OnBeanCondition.java:182)
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getMatchOutcome(OnBeanCondition.java:157)
+	at org.springframework.boot.autoconfigure.condition.SpringBootCondition.matches(SpringBootCondition.java:47)
+	... 17 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: io/swagger/v3/oas/models/OpenAPI
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701)
+	at java.lang.Class.getDeclaredMethods(Class.java:1975)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:467)
+	... 33 common frames omitted
+Caused by: java.lang.ClassNotFoundException: io.swagger.v3.oas.models.OpenAPI
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 37 common frames omitted
+2025-06-23 16:33:54 [main] WARN  o.s.boot.SpringApplication - Unable to close ApplicationContext
+java.lang.IllegalStateException: Failed to introspect Class [com.banco.popular.ms_tarjeta.application.configuration.OpenApiConfig] from ClassLoader [sun.misc.Launcher$AppClassLoader@15db9742]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:485)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:361)
+	at org.springframework.util.ReflectionUtils.getUniqueDeclaredMethods(ReflectionUtils.java:418)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.lambda$getTypeForFactoryMethod$2(AbstractAutowireCapableBeanFactory.java:765)
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1660)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryMethod(AbstractAutowireCapableBeanFactory.java:764)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:703)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:674)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1684)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:570)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:669)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:661)
+	at org.springframework.context.support.AbstractApplicationContext.getBeansOfType(AbstractApplicationContext.java:1314)
+	at org.springframework.boot.SpringApplication.getExitCodeFromMappedException(SpringApplication.java:861)
+	at org.springframework.boot.SpringApplication.getExitCodeFromException(SpringApplication.java:849)
+	at org.springframework.boot.SpringApplication.handleExitCode(SpringApplication.java:836)
+	at org.springframework.boot.SpringApplication.handleRunFailure(SpringApplication.java:776)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1300)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1289)
+	at com.banco.popular.ms_tarjeta.MsTarjetaApplication.main(MsTarjetaApplication.java:10)
+Caused by: java.lang.NoClassDefFoundError: io/swagger/v3/oas/models/OpenAPI
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701)
+	at java.lang.Class.getDeclaredMethods(Class.java:1975)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:467)
+	... 21 common frames omitted
+Caused by: java.lang.ClassNotFoundException: io.swagger.v3.oas.models.OpenAPI
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 25 common frames omitted
+2025-06-23 16:35:36 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 16:35:36 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 10456 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 16:35:36 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 16:35:38 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:35:38 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-23 16:35:38 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-23 16:35:38 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-23 16:35:39 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-23 16:35:39 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-23 16:35:39 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-23 16:35:39 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-06-23 16:35:40 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-06-23 16:35:40 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-06-23 16:35:40 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-06-23 16:35:41 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-23 16:35:42 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:35:42 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 6.024 seconds (JVM running for 6.45)
+2025-06-23 16:35:46 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-23 16:35:47 [http-nio-8080-exec-1] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 296 ms
+2025-06-23 16:37:15 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 16:37:15 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 8320 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 16:37:15 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 16:37:17 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:37:17 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-23 16:37:17 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-23 16:37:17 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-23 16:37:17 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-23 16:37:17 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-23 16:37:17 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-23 16:37:17 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-06-23 16:37:18 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-06-23 16:37:18 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-06-23 16:37:18 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-06-23 16:37:19 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-23 16:37:20 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:37:20 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 5.455 seconds (JVM running for 5.905)
+2025-06-23 16:37:26 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-23 16:37:31 [http-nio-8080-exec-2] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 298 ms
+2025-06-23 16:38:54 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 16:38:54 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 21748 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 16:38:54 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 16:38:56 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:38:56 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-23 16:38:56 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-23 16:38:56 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-23 16:38:56 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-23 16:38:57 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-23 16:38:57 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-23 16:38:57 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-06-23 16:38:57 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-06-23 16:38:57 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-06-23 16:38:58 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-06-23 16:38:59 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-23 16:39:00 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-23 16:39:00 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 7.051 seconds (JVM running for 7.5)
+2025-06-23 16:39:05 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-23 17:18:40 [http-nio-8080-exec-8] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_0_, tarjetacre0_.clase as clase2_0_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_0_, tarjetacre0_.cupo as cupo4_0_0_, tarjetacre0_.descripcion as descripc5_0_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_0_, tarjetacre0_.franquicia as franquic8_0_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_0_ from tarjeta_credito tarjetacre0_ where tarjetacre0_.idtarjeta_credito=?
+2025-06-23 17:18:40 [http-nio-8080-exec-8] INFO  c.b.p.m.i.c.TarjetaCreditoController -  Inicio Consultando tarjeta de credito con id: 1
+2025-06-23 17:18:40 [http-nio-8080-exec-8] INFO  c.b.p.m.i.c.TarjetaCreditoController -  fin Consultando tarjeta de credito con id: 1
+2025-06-23 17:18:49 [http-nio-8080-exec-9] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_0_, tarjetacre0_.clase as clase2_0_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_0_, tarjetacre0_.cupo as cupo4_0_0_, tarjetacre0_.descripcion as descripc5_0_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_0_, tarjetacre0_.franquicia as franquic8_0_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_0_ from tarjeta_credito tarjetacre0_ where tarjetacre0_.idtarjeta_credito=?
+2025-06-23 17:18:49 [http-nio-8080-exec-9] INFO  c.b.p.m.i.c.TarjetaCreditoController -  Inicio Consultando tarjeta de credito con id: 26
+2025-06-23 17:18:49 [http-nio-8080-exec-9] INFO  c.b.p.m.i.c.TarjetaCreditoController -  no se encontro ningun dato asociado a la  tarjeta de credito con id: 26
+2025-06-23 17:29:23 [http-nio-8080-exec-10] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_0_, tarjetacre0_.clase as clase2_0_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_0_, tarjetacre0_.cupo as cupo4_0_0_, tarjetacre0_.descripcion as descripc5_0_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_0_, tarjetacre0_.franquicia as franquic8_0_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_0_ from tarjeta_credito tarjetacre0_ where tarjetacre0_.idtarjeta_credito=?
+2025-06-23 17:29:23 [http-nio-8080-exec-10] DEBUG org.hibernate.SQL - insert into tarjeta_credito (clase, codigo_seguridad, cupo, descripcion, fecha_expedicion, fecha_poblamiento, franquicia, saldo_actual) values (?, ?, ?, ?, ?, ?, ?, ?)
+2025-06-23 17:41:10 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 17:41:10 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 24128 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 17:41:10 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 17:41:11 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-23 17:41:11 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-23 17:41:11 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-23 17:41:12 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-23 17:41:12 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-23 17:41:12 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-23 17:41:12 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-23 17:41:12 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-06-23 17:41:12 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-06-23 17:41:12 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-06-23 17:41:13 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-06-23 17:41:14 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-23 17:41:14 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-23 17:41:14 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 4.584 seconds (JVM running for 4.948)
+2025-06-23 17:41:58 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-23 17:41:58 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - select tarjetacre0_.idtarjeta_credito as idtarjet1_0_0_, tarjetacre0_.clase as clase2_0_0_, tarjetacre0_.codigo_seguridad as codigo_s3_0_0_, tarjetacre0_.cupo as cupo4_0_0_, tarjetacre0_.descripcion as descripc5_0_0_, tarjetacre0_.fecha_expedicion as fecha_ex6_0_0_, tarjetacre0_.fecha_poblamiento as fecha_po7_0_0_, tarjetacre0_.franquicia as franquic8_0_0_, tarjetacre0_.saldo_actual as saldo_ac9_0_0_ from tarjeta_credito tarjetacre0_ where tarjetacre0_.idtarjeta_credito=?
+2025-06-23 17:41:58 [http-nio-8080-exec-1] DEBUG org.hibernate.SQL - delete from tarjeta_credito where idtarjeta_credito=?
+2025-06-23 17:41:58 [http-nio-8080-exec-1] INFO  c.b.p.m.i.c.TarjetaCreditoController -  Tarjeta de credito con id: 1 eliminada correctamente
+2025-06-23 17:59:48 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-06-23 17:59:48 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 6480 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-06-23 17:59:48 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-23 17:59:50 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-23 17:59:50 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-23 17:59:50 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-23 17:59:50 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-23 17:59:50 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-23 17:59:51 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-23 17:59:51 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-23 17:59:51 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-06-23 17:59:51 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-06-23 17:59:51 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-06-23 17:59:52 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-06-23 17:59:52 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-23 17:59:53 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-23 17:59:53 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 4.695 seconds (JVM running for 5.027)
+2025-06-23 18:26:00 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m8s858ms226µs900ns).
+2025-07-10 17:54:57 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2025-07-10 17:54:57 [main] INFO  c.b.p.m.MsTarjetaApplication - Starting MsTarjetaApplication using Java 1.8.0_452 on DAPANEW with PID 18380 (C:\Users\User\Desktop\banco popular\ms-tarjeta\target\classes started by User in C:\Users\User\Desktop\banco popular\ms-tarjeta)
+2025-07-10 17:54:57 [main] INFO  c.b.p.m.MsTarjetaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-07-10 17:55:00 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-07-10 17:55:00 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-10 17:55:00 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-07-10 17:55:00 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-07-10 17:55:00 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-10 17:55:01 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-10 17:55:01 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-07-10 17:55:01 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-07-10 17:55:01 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-07-10 17:55:01 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2025-07-10 17:55:02 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-07-10 17:55:03 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-07-10 17:55:03 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-07-10 17:55:03 [main] INFO  c.b.p.m.MsTarjetaApplication - Started MsTarjetaApplication in 6.667 seconds (JVM running for 7.139)

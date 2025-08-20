@@ -1,0 +1,42 @@
+NOMENCLATURA CREACION DEL PROYECTO
+con f1 se escoje la version de spring, java y se guarda en la carpeta de la prueba . 
+
+	1. se debe crear en minuscula de la siguiente manera ms-xxxxxxx
+	2. para java 1.8  se debe cambiar  en el pom.xml version de spring  veresion de java 
+	<version>2.7.18</version> 
+	<java.version>1.8</java.version>
+	
+2.CREACION DE TABLA EN BASEE DE DATOS MYSQL 
+	si es numeros se debe utilizar  decimal(10,2)
+	si es fecha  datetime con minutos y segundos o date 
+	1.  se debe tomar que sea autoincremental not null la llave primaria, con el create le pedimos a chatgpt que cree los insert
+
+3.CREACION DE ENTIDAD JAVA 
+	para los campos que son decimal en la bd en la entidad deben quedar como BigDecimal
+	
+	1. validaciones que se pueden utilizar: 
+	@Column(name = "saldo_actual", precision = 10, scale = 2)
+    
+	@NotBlank(message = "El nombre es obligatorio")
+    @Size(min = 2, max = 100, message = "El nombre debe tener entre 2 y 100 caracteres")
+	@NotNull(message = "El saldo no puede ser nulo")
+
+`idtarjeta_credito` int NOT NULL AUTO_INCREMENT,
+  `clase` varchar(45) DEFAULT NULL COMMENT 'clase de tarjeta \ngol,premiun,diamante,safiro',
+  `descripcion` varchar(100) DEFAULT NULL,
+  `franquicia` varchar(45) DEFAULT NULL COMMENT 'franquicia',
+  `cupo` decimal(10,2) NOT NULL COMMENT 'cupo inicial de la tarjeta ',
+  `saldo_actaul` decimal(10,2) NOT NULL COMMENT 'saldo actual de la tarjeta',
+  `codigo_seguridad` int DEFAULT NULL,
+  `fecha_expedicion` date NOT NULL COMMENT 'fecha de expedicion de la tarjeta',
+  `fecha_poblamiento` datetime NOT NULL COMMENT 'fecha en que se creo el regisro',
+  
+ 4. CREACION DE LA CARPETA repository , CON LA INTERFAZ QUE HEREDA DE  CRUDREPOSITORY, JPAREPOSITORY
+  public interface TarjetaCreditoRepository extends CrudRepository <TarjetaCredito, Long> {
+
+5. CREACION DE LA CARPETA service 
+	1. crear la interfaz (TarjetaCreditoService) que tiene los metodos(crud) que se implementaran luego
+	2.  crear la clase TarjetaCreditoServiceImpl que inplementa la interfaz anterior, adicionalmente se llama a (TarjetaCreditoRepository)
+5. CREACION DEL CONTROLADOR carpeta controller 
+	1. se crea la clase healthCheck y se prueba el proyecto que este arriba 
+	
